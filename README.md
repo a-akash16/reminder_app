@@ -3,15 +3,15 @@
 A productivity application which gives you notification/reminder of your tasks with a dose of motivation and aims to suggest you what to do in your free time according to your interests.
 
 
-Layout:
+### Layout:
 
 ![image](https://user-images.githubusercontent.com/118706951/224730753-e55067bf-5c1d-4cef-9dc4-7f5a912e40f8.png)
 
-Input:
+### Input:
 
 ![image](https://user-images.githubusercontent.com/118706951/224731199-0c56c303-e684-4783-8130-4833afedddf8.png)
 
-Output:
+### Output:
 
 ![image](https://user-images.githubusercontent.com/118706951/224731276-f2ff3b67-9fed-4e46-8081-0b4b2357d527.png)
 
